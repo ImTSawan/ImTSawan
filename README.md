@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sawan
 - 👀 I’m interested in Building new things
-- 🌱 I’m currently learning full stack web development at Crio.do
+- 🌱 I’m currently learning full stack web development
 - 📫 How to reach me Sawan15225@gmail.com
 
 <!---
